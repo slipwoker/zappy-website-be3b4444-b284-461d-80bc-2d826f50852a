@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://aliefinds-by-shenhav-be3b4444.zappy5.app
+https://example.com
 חנות שותפים אוצרת עם מוצרים מנצחים מאליאקספרס. גלה קליקים משתלמים, קטלוג חכם והפלטפורמה הטובה ביותר לשיווק שותפים במסחר אלקטרוני. התחל לחסוך ולמכור עוד היום!
 
 ### איך זה עובד
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/how-it-works
+https://example.com/how-it-works
 המדריך הפשוט שילמד אותך איך עובד שיווק שותפים עם אליאקספרס. גלה את התהליך, טיפים להגדלת הכנסות, והדרך הנכונה להשתמש באתר שותפים למסחר אלקטרוני. קרא עוד עכשיו!
 
 ### אודות שנהב
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/about
+https://example.com/about
 הכירו את שנהב, המוח מאחורי אוצרות המוצרים. למדו איך התשוקה למציאות חכמות הפכה לפלטפורמת שותפים מובילה למסחר אלקטרוני. הצטרפו למסע ובנו איתנו הצלחה!
 
 ### צור קשר
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מוצר, שיתוף פעולה או שיווק שותפים? צרו קשר עם שנהב עוד היום. אנחנו כאן כדי להפוך את חוויית הקנייה והמכירה שלכם למשתלמת יותר. השאירו פנייה עכשיו!
 
 ### Products
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Aliefinds-by shenhav
 
 ### Cart
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Aliefinds-by shenhav
 
 ### Category
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Aliefinds-by shenhav
 
 ### תודה - ההודעה התקבלה
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/thank-you
+https://example.com/thank-you
 Aliefinds-by shenhav - תודה - ההודעה התקבלה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://aliefinds-by-shenhav-be3b4444.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce / Affiliate Marketing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://aliefinds-by-shenhav-be3b4444.zappy5.app/sitemap.xml
-- Robots: https://aliefinds-by-shenhav-be3b4444.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://aliefinds-by-shenhav-be3b4444.zappy5.app/llms-full.txt
-- Products (JSON): https://aliefinds-by-shenhav-be3b4444.zappy5.app/products.json
-- Products (Google Merchant RSS): https://aliefinds-by-shenhav-be3b4444.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
